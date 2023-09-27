@@ -2,9 +2,9 @@
 
 ## About Me
 
-Hello there, I am NabeBako (鍋バコ), a high school student who enjoys fiddling with computers. 
+Hello there, I am Ken, currently studying CS at UCSB. 
 
-Curretnly, I am trying out various things to see what click with me. I am interested in machine learning and data analysis, but I am also looking into web and native development.
+Curretnly, I am trying out various things to see what clicks with me. I am interested in machine learning and data analysis, but I am also looking into web and native development.
 
 
 ## Stuffs that I use
