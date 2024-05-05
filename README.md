@@ -1,11 +1,8 @@
 <h1 align="center">👋 Hello</h1>
 
-## About Me
+🌐 github.com/ken-tummada | 📩 ken.thampiratwong@gmail.com
 
-Hello there, I am Ken, currently studying CS at UCSB. 
-
-Curretnly, I am trying out various things to see what clicks with me. I am interested in machine learning and data analysis, but I am also looking into web and native development.
-
+Hello! I'm Ken, a freshman at UC Santa Barbara with 3 years of programing experience. Reach out to chat!
 
 ## Stuffs that I use
 
