@@ -2,9 +2,9 @@
 
 🌐 github.com/ken-tummada | 📩 ken.thampiratwong@gmail.com
 
-Hello! I'm Ken, a freshman at UC Santa Barbara with 3 years of programing experience. Reach out to chat!
+Hello! I'm Ken, a freshman at UC Santa Barbara with 3 years of programming experience. Reach out to chat!
 
-## Stuffs that I use
+## Stuff that I use
 
 ### 🚀 Web Development
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
