@@ -2,7 +2,7 @@
 
 📩 ken.thampiratwong@gmail.com
 
-Hello! I'm Ken, a freshman at UC Santa Barbara with 3 years of programming experience. Reach out to chat!
+Hello! I'm Ken, a sophomore at UC Santa Barbara with 3 years of programming experience. Reach out to chat!
 
 ## Stuff that I use
 
